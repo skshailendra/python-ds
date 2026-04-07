@@ -1,0 +1,8 @@
+ipykernel
+nbstripout
+pandas
+numpy
+matplotlib
+plotly
+PdfReader
+openpyxl
